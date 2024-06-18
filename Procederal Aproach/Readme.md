@@ -1,0 +1,1 @@
+**Procedural programming** is a paradigm based on the concept of procedure calls, where procedures (also known as routines or functions) are used to perform tasks. This approach focuses on a sequence of computational steps to be carried out, often breaking down a problem into smaller, manageable parts that can be handled by individual procedures or functions.
